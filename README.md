@@ -166,8 +166,8 @@ To use the site:
 
 ### **Additional Documentation**
 
-* The [**Guide**](public/doc/guide.html) provides an introduction to ScriptRemote features.
-* The API documentation can be viewed at https://scriptremote.com
+* The **Guide** (https://scriptremote.com/doc/guide.html) provides an introduction to ScriptRemote features.
+* The **API Reference** (https://scriptremote.com/doc/api/index.html) defines the non-browser endpoints available to clients
 
 
 ### **Installation**
