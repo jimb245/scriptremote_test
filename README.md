@@ -2,7 +2,7 @@
 
 ### **Overview**
 
-ScriptRemote is a MEAN-stack project to provide secure remote access to scripted applications from a browser UI. Basically it is a messaging service between scripts running on machines in protected networks and browsers.  The goal is to it make it easy to bring up web UI's for applications for which developing full-custom web or mobile apps is not feasible.
+ScriptRemote is a MEAN-stack project to provide secure remote access to scripted applications from a browser UI. Basically it is a messaging service between scripts running on machines in protected networks and browsers.  The goal is to it make it easy to bring up web UI's for applications for which developing full-custom web or mobile apps is not practical.
 
 ### **Features**
 
