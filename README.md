@@ -27,6 +27,7 @@ The screenshot on the left shows one of the messages viewed under the default UI
 <img src="public/doc/image/Screenshot_2.png" width="35%" border="5" solid hspace="10"/>
 </div>
 
+
 **Here is the bash script:**
 
 
@@ -94,7 +95,7 @@ SR_end
 
 **These are the customized Angular templates:**
 
-The 'ng' attributes provide the links to the Angular framework. A few HTML5 and [**bootstrap**](http://getbootstrap.com) library features are used for styling.
+The 'ng' attributes provide the links to the [**Angular**](https://angularjs.org) framework. A few HTML5 and [**bootstrap**](http://getbootstrap.com) library features are used for styling. The second template is for the reply part of the message. The reply button is handled by the template's parent element so it does not appear here.
 
 ```
 <ul class="list-group">
@@ -121,12 +122,10 @@ The 'ng' attributes provide the links to the Angular framework. A few HTML5 and 
 ### **Demo Server**
 
 If you would like to try a few tests with ScriptRemote 
-before installing
-there is a server at https://scriptremote.com. 
-You can also view additional documentation there.
+before installing there is a server at https://scriptremote.com. 
 To use the site:
 
-1. Register (not required to view docs)
+1. Register
 
 2. Login and get API credentials by selecting **Settings** in the menu bar and then clicking **Generate** in the API Credentials section
 
@@ -164,6 +163,11 @@ To use the site:
 
 7. The messages should now be accessible under **Projects** in the menu bar. Submitting a modified reply to the second message should cause the script to display the new value.
 
+
+### **Additional Documentation**
+
+* The [**Guide**](public/doc/guide.html) provides an introduction to ScriptRemote features.
+* The API documentation can be viewed at https://scriptremote.com
 
 
 ### **Installation**
