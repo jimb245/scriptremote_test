@@ -23,7 +23,7 @@ In this simulated IOT example, a script sends a message containing some temperat
 The screenshot on the left shows one of the messages viewed under the default UI settings. On the right the settings are changed to use a customized template that better matches the message content.
 
 <div style="text-align:center">
-<img src="public/doc/image/Screenshot_1.png" width="35%" border="5" solid #021a40 hspace="10"/>
+<img src="public/doc/image/Screenshot_1.png" width="35%" border="5" solid hspace="10"/>
 <img src="public/doc/image/Screenshot_2.png" width="35%" border="5" solid hspace="10"/>
 </div>
 
