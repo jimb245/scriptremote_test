@@ -166,7 +166,7 @@ To use the site:
 
 ### **Additional Documentation**
 
-* The **Guide** (https://scriptremote.com/doc/guide.html) provides an introduction to ScriptRemote features.
+* The [**Guide**](public/doc/guide.md) provides an introduction to ScriptRemote features.
 * The **API Reference** (https://scriptremote.com/doc/api/index.html) defines the non-browser endpoints available to clients
 
 
@@ -183,13 +183,13 @@ A basic platform choice is between public and private servers.
 For a small site not needing high availability, the server can just be a machine or VPS that can support a MEAN-stack environment and forward email. Another option is a platform-as-a-service vendor that supports MEAN-stack.
 
 
-[**Installation on Digital Ocean Droplet**](/doc/InstallDigitalOcean.html)
+[**Installation on Digital Ocean Droplet**](public/doc/InstallDigitalOcean.md)
 
-[**Installation on IBM Bluemix**](/doc/InstallBluemix.html)
+[**Installation on IBM Bluemix**](public/doc/InstallBluemix.md)
 
-[**Generic private server installation**](/doc/InstallGeneric.html)
+[**Generic private server installation**](public/doc/InstallGeneric.md)
 
-[**Installation for development**](/doc/InstallDevelop.html)
+[**Installation for development**](public/doc/InstallDevelop.md)
 
 
     
